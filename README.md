@@ -1,2 +1,2 @@
-# Caterpillars
+# PacManBug
 CaterpillarGame
